@@ -15,6 +15,7 @@
 
 <h3 align="left">📕 Blogs posts</h3>
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Android Automotive](https://medium.com/@vsebastianvc/introduction-to-android-automotive-0d4076880d3d?source=rss-52a0fae5e4ca------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🔗 Connect with me:</h3>
