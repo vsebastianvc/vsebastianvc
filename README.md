@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Sebastian Valencia</h1>
-<h3 align="center">"Juggling Code, Coffee, and the Occasional Bug. Turning Coffee into Code Since 2015. 🚀☕️</h3>
+<h3 align="center">Juggling Code, Coffee, and the Occasional Bug. Turning Coffee into Code Since 2015. 🚀☕️</h3>
 
 - 🔭 I’m currently working on [TribalScale](https://www.tribalscale.com/)
 
