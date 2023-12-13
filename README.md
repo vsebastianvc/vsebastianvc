@@ -13,17 +13,17 @@
 
 - ⚡ Fun fact: 🐱 lover ❤️ and Pokemon card collector 📦
 
-📕 &nbsp; **Blogs posts**
+<h3 align="left">📕 Blogs posts</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-🔗 &nbsp; **Connect with me:**
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sebastianvalencia93/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastianvalencia93/" height="30" width="40" /></a>
 <a href="https://medium.com/@vsebastianvc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vsebastianvc" height="30" width="40" /></a>
 </p>
 
-📊 &nbsp;**This week I spent my time on**
+<h3 align="left">📊 This week I spent my time on</h3>
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=vsebastianvc&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
