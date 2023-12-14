@@ -15,7 +15,11 @@
 
 <h3 align="left">📕 Blogs posts</h3>
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Android Automotive](https://medium.com/@vsebastianvc/introduction-to-android-automotive-0d4076880d3d?source=rss-52a0fae5e4ca------2)
+- [Gemini AI Nano on Pixel 8 Pro](https://medium.com/tribalscale/gemini-ai-nano-on-pixel-8-pro-410a73ce717b?source=rss-3d4f4d2f3e6------2)
+- [What’s New in iOS 17.1](https://medium.com/tribalscale/whats-new-in-ios-17-1-c8cb43254380?source=rss-3d4f4d2f3e6------2)
+- [Swift 5.9 Features to Keep an Eye Out For](https://medium.com/tribalscale/swift-5-9-features-to-keep-an-eye-out-for-fdb38d6d5f1a?source=rss-3d4f4d2f3e6------2)
+- [Apple’s “Scary Fast” Event](https://medium.com/tribalscale/apples-scary-fast-event-62fa9a1ceddf?source=rss-3d4f4d2f3e6------2)
+- [Everything New With iOS 17](https://medium.com/tribalscale/everything-new-with-ios-17-2ebc1f7001a2?source=rss-3d4f4d2f3e6------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🔗 Connect with me:</h3>
