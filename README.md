@@ -11,6 +11,7 @@
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Android Automotive](https://medium.com/@vsebastianvc/introduction-to-android-automotive-0d4076880d3d?source=rss-52a0fae5e4ca------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Connect with me:
