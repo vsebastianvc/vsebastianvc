@@ -1,6 +1,6 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Sebastian Valencia
 
-### Passionate Android Enthusiast 🤖 | Dedicated to Crafting Clean Code and Resolving Bugs | Mentor | Eager to Learn New Technologies 📚🚀 | Still Evolving as a Programmer ⏳👩‍💻"
+### Passionate Android Enthusiast 🤖 | Mentor | Eager to Learn New Technologies 📚🚀 | Still Evolving as a Programmer ⏳👨🏻‍💻"
 
 - 🔭 I’m currently working on [TribalScale](https://www.tribalscale.com/)
 - 🌱 I’m currently learning **AAOS, iOS**
