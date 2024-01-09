@@ -11,7 +11,6 @@
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Android Automotive](https://medium.com/@vsebastianvc/introduction-to-android-automotive-0d4076880d3d?source=rss-52a0fae5e4ca------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Connect with me:
@@ -19,7 +18,7 @@
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vsebastianvc" height="30" width="40" />](https://medium.com/@vsebastianvc)
 
 ### 📊 This week I spent my time on, (if the chart doesn't show too many hours, blame it on the meeting marathon – surviving one pixel at a time! 😅 #DeveloperLeadLife")
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=vsebastianvc&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=vsebastianvc&hide_title=true&langs_count=5)
 
 ### Languages and Tools:
 <p>
