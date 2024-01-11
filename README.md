@@ -18,7 +18,7 @@
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastianvalencia93/" height="30" width="40" />](https://linkedin.com/in/https://www.linkedin.com/in/sebastianvalencia93/)
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vsebastianvc" height="30" width="40" />](https://medium.com/@vsebastianvc)
 
-### 📊 This week I spent my time on, (if the chart doesn't show too many hours, blame it on the meeting marathon – surviving one pixel at a time! 😅 #DeveloperLeadLife")
+### 📊 This week I spent my time on...
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=vsebastianvc&hide_title=true&langs_count=5)
 
 ### Languages and Tools:
