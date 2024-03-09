@@ -11,8 +11,11 @@
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Recapping the Google 2023 Keynote — Introducing AI-Driven Innovations](https://medium.com/@vsebastianvc/recapping-the-google-2023-keynote-introducing-ai-driven-innovations-6254b6dea2f1?source=rss-52a0fae5e4ca------2)
 - [Gemini AI Nano on Pixel 8 Pro](https://medium.com/@vsebastianvc/gemini-ai-nano-on-pixel-8-pro-ea141cd8b8eb?source=rss-52a0fae5e4ca------2)
+- [Why AAOS is a Game-changer in the Automotive Industry](https://medium.com/@vsebastianvc/why-aaos-is-a-game-changer-in-the-automotive-industry-d64e2d57b4db?source=rss-52a0fae5e4ca------2)
 - [Introduction to Android Automotive](https://medium.com/@vsebastianvc/introduction-to-android-automotive-0d4076880d3d?source=rss-52a0fae5e4ca------2)
+- [Creating an App in Android Automotive OS](https://medium.com/@vsebastianvc/creating-an-app-in-android-automotive-os-62c09bed7472?source=rss-52a0fae5e4ca------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Connect with me:
